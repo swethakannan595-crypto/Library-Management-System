@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<!-- saved from url=(0022)http://127.0.0.1:8000/ -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Library Management System</title>
+
+    <link href="./Library Management System_files/bootstrap.min.css" rel="stylesheet">
+
+    <link rel="stylesheet" href="./Library Management System_files/all.min.css">
+
+    <style>
+
+        body{
+            background:#f5f7fb;
+            font-family:Arial, sans-serif;
+        }
+
+        .navbar{
+            background:linear-gradient(to right,#141e30,#243b55);
+        }
+
+        .navbar-brand{
+            font-size:28px;
+            font-weight:bold;
+        }
+
+        .nav-link{
+            color:white !important;
+            margin-right:15px;
+            font-size:17px;
+        }
+
+        .hero{
+            background:linear-gradient(to right,#7c47a5,#214b6f);
+            color:white;
+            padding:70px;
+            border-radius:20px; 
+            text-align:center;
+            margin-top:30px;
+            box-shadow:0px 5px 20px rgba(0,0,0,0.2);
+        }
+
+        .card{
+            border:none;
+            border-radius:20px;
+            transition:0.3s;
+            box-shadow:0px 4px 15px rgba(0,0,0,0.1);
+        }
+
+        .card:hover{
+            transform:translateY(-10px);
+        }
+
+        .btn-custom{
+            border-radius:30px;
+            padding:10px 20px;
+        }
+
+        footer{
+            margin-top:60px;
+            background:#141e30;
+            color:white;
+            padding:20px;
+            text-align:center;
+        }
+
+    </style>
+
+</head>
+
+<body>
+
+<nav class="navbar navbar-expand-lg navbar-dark">
+
+    <div class="container">
+
+        <a class="navbar-brand" href="http://127.0.0.1:8000/">
+            <i class="fa-solid fa-book"></i>
+            Library System
+        </a>
+
+        <div>
+
+            <a href="http://127.0.0.1:8000/" class="nav-link d-inline">
+                Home
+            </a>
+
+            <a href="http://127.0.0.1:8000/books/" class="nav-link d-inline">
+                Books
+            </a>
+
+            <a href="http://127.0.0.1:8000/students/" class="nav-link d-inline">
+                Students
+            </a>
+
+            <a href="http://127.0.0.1:8000/add-book/" class="nav-link d-inline">
+                Add Book
+            </a>
+
+            <a href="http://127.0.0.1:8000/add-student/" class="nav-link d-inline">
+                Add Student
+            </a>
+
+            <a href="http://127.0.0.1:8000/issue-book/" class="nav-link d-inline">
+                Issue Book
+            </a>
+
+        </div>
+
+    </div>
+
+</nav>
+
+<div class="container">
+
+    
+
+<div class="hero">
+
+    <h1 class="display-4">
+        Library Management System
+    </h1>
+
+    <p class="lead">
+        Django Internship Project
+    </p>
+
+</div>
+
+<div class="row mt-5">
+
+    <div class="col-md-4">
+
+        <div class="card p-4 text-center">
+
+            <i class="fa-solid fa-book fa-3x mb-3 text-primary"></i>
+
+            <h3>Total Books</h3>
+
+            <h1>3</h1>
+
+        </div>
+
+    </div>
+
+    <div class="col-md-4">
+
+        <div class="card p-4 text-center">
+
+            <i class="fa-solid fa-user fa-3x mb-3 text-success"></i>
+
+            <h3>Total Students</h3>
+
+            <h1>5</h1>
+
+        </div>
+
+    </div>
+
+    <div class="col-md-4">
+
+        <div class="card p-4 text-center">
+
+            <i class="fa-solid fa-book-open fa-3x mb-3 text-danger"></i>
+
+            <h3>Issue Books</h3>
+
+            <a href="http://127.0.0.1:8000/issue-book/" class="btn btn-danger btn-custom">
+                Open
+            </a>
+
+        </div>
+
+    </div>
+    
+</div>
+
+
+
+</div>
+
+<footer>
+
+    <h5>
+        Library Management System
+    </h5>
+
+    <p>
+        Internship Project using Django
+    </p>
+
+</footer>
+
+
+
+
+</body></html>
