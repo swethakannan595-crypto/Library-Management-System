@@ -1,0 +1,65 @@
+{% extends 'base.html' %}
+
+{% block content %}
+
+<div class="hero">
+
+    <h1 class="display-4">
+        Library Management System
+    </h1>
+
+    <p class="lead">
+        Django Internship Project
+    </p>
+
+</div>
+
+<div class="row mt-5">
+
+    <div class="col-md-4">
+
+        <div class="card p-4 text-center">
+
+            <i class="fa-solid fa-book fa-3x mb-3 text-primary"></i>
+
+            <h3>Total Books</h3>
+
+            <h1>{{ total_books }}</h1>
+
+        </div>
+
+    </div>
+
+    <div class="col-md-4">
+
+        <div class="card p-4 text-center">
+
+            <i class="fa-solid fa-user fa-3x mb-3 text-success"></i>
+
+            <h3>Total Students</h3>
+
+            <h1>{{ total_students }}</h1>
+
+        </div>
+
+    </div>
+
+    <div class="col-md-4">
+
+        <div class="card p-4 text-center">
+
+            <i class="fa-solid fa-book-open fa-3x mb-3 text-danger"></i>
+
+            <h3>Issue Books</h3>
+
+            <a href="/issue-book/" class="btn btn-danger btn-custom">
+                Open
+            </a>
+
+        </div>
+
+    </div>
+    
+</div>
+
+{% endblock %}
