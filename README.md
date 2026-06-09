@@ -1,2 +1,5 @@
-# Library-Management-System
-A Django powered Library Management System that handles book records, member registration and issue/return tracking. Clean frontend and built with HTML/CSS. Solo project.
+📖 Library Management System | Django
+
+A web-based library management solution built with Django, featuring book record management, member registration, and issue/return tracking. Designed with a clean HTML/CSS interface and developed as a solo project.
+
+#Django #Python #LibraryManagement #WebApp #FullStackDevelopment #GitHubProject
