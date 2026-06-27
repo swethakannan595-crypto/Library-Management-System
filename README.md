@@ -6,18 +6,6 @@
 
 <img width="951" height="476" alt="image" src="https://github.com/user-attachments/assets/075bc035-3c32-441c-881a-bfcc65f0f1f1" />
 
-
-<img width="950" height="467" alt="image" src="https://github.com/user-attachments/assets/4f090d1c-81d2-4a1a-8e69-87d1d3f79d5b" />
-
-
-<img width="932" height="470" alt="image" src="https://github.com/user-attachments/assets/696bfa1a-3b57-486b-bfb1-1c8df5e7d24e" />
-
-
-<img width="957" height="336" alt="image" src="https://github.com/user-attachments/assets/c3810a14-1616-4fbd-a8ab-ed8e8f92be34" />
-
-
-<img width="938" height="463" alt="image" src="https://github.com/user-attachments/assets/f6750d43-0503-499b-9b64-e2545efbf10a" />
-
 </div>
 
 ---
@@ -37,10 +25,14 @@ This project demonstrates core full-stack web development fundamentals: relation
 - Track title, author, genre, ISBN, and available copies
 - Searchable and organized book catalog view
 
+        <img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/4f090d1c-81d2-4a1a-8e69-87d1d3f79d5b" />
+
 ### 🧑‍🤝‍🧑 Member Registration
 - Register new library members with contact details
 - View and manage the full member directory
 - Edit or remove member records
+
+        <img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/696bfa1a-3b57-486b-bfb1-1c8df5e7d24e" />
 
 ### 🔄 Issue / Return Tracking
 - Issue a book to a registered member
@@ -48,10 +40,15 @@ This project demonstrates core full-stack web development fundamentals: relation
 - Mark books as returned and update availability automatically
 - View currently issued and overdue books at a glance
 
+        <img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/c3810a14-1616-4fbd-a8ab-ed8e8f92be34" />
+
 ### 🎨 Clean Interface
 - Custom-built HTML/CSS templates (no heavy frontend framework)
 - Simple, readable layout focused on usability
 - Django template inheritance for consistent page structure
+
+
+<img width="938" height="463" alt="image" src="https://github.com/user-attachments/assets/f6750d43-0503-499b-9b64-e2545efbf10a" />
 
 ---
 
