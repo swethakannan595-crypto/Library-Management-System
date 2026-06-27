@@ -25,14 +25,14 @@ This project demonstrates core full-stack web development fundamentals: relation
 - Track title, author, genre, ISBN, and available copies
 - Searchable and organized book catalog view
 
-        <img width="550" height="450" alt="image" src="https://github.com/user-attachments/assets/4f090d1c-81d2-4a1a-8e69-87d1d3f79d5b" />
+   <img width="938" height="463" alt="image" src="https://github.com/user-attachments/assets/4f090d1c-81d2-4a1a-8e69-87d1d3f79d5b" />
 
 ### 🧑‍🤝‍🧑 Member Registration
 - Register new library members with contact details
 - View and manage the full member directory
 - Edit or remove member records
 
-        <img width="550" height="450" alt="image" src="https://github.com/user-attachments/assets/696bfa1a-3b57-486b-bfb1-1c8df5e7d24e" />
+  <img width="938" height="463" alt="image" src="https://github.com/user-attachments/assets/696bfa1a-3b57-486b-bfb1-1c8df5e7d24e" />
 
 ### 🔄 Issue / Return Tracking
 - Issue a book to a registered member
@@ -40,7 +40,7 @@ This project demonstrates core full-stack web development fundamentals: relation
 - Mark books as returned and update availability automatically
 - View currently issued and overdue books at a glance
 
-        <img width="550" height="450" alt="image" src="https://github.com/user-attachments/assets/c3810a14-1616-4fbd-a8ab-ed8e8f92be34" />
+  <img width="938" height="463" alt="image" src="https://github.com/user-attachments/assets/c3810a14-1616-4fbd-a8ab-ed8e8f92be34" />
 
 ### 🎨 Clean Interface
 - Custom-built HTML/CSS templates (no heavy frontend framework)
